@@ -2,7 +2,7 @@ These codes serve as examples for implementing various C++ STL algorithms.
 
 These files are provided by Rogue Wave Software, Inc.
 
-(c) Copyright 1994, 1998 Rogue Wave Software, Inc.
+    (c) Copyright 1994, 1998 Rogue Wave Software, Inc.
 
     - TITLE:
       STL Tests
